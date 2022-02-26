@@ -11,7 +11,9 @@
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
 		"dbaeumer.vscode-eslint",
-		"henryansah.notejs"
+		"henryansah.notejs",
+		"donjayamanne.typescript-notebook",
+		"tanhakabir.rest-book"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
