@@ -8,6 +8,10 @@
   "scripts": {
     "serve": "npx backlight@latest serve duo983eix5B3nAxpI4NY --open"
   },
-  "devDependencies": {},
-  "dependencies": {}
+  "devDependencies": {
+    "@storyboook/react": "6.5.0"
+  },
+  "dependencies": {
+    "react": "17.0.2"
+  }
 }
