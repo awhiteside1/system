@@ -13,7 +13,6 @@
       "~/*": ["*"],
       "@divriots/starter-sass/*": ["*"]
     }
-
-    
-  }
+  }, 
+  "include": ["src"]
 }
