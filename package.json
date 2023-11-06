@@ -9,5 +9,5 @@
     "serve": "npx backlight@latest serve duo983eix5B3nAxpI4NY --open"
   },
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {"data-forge":"latest"}
 }
